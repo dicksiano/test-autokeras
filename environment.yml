@@ -1,0 +1,6 @@
+name: autokerastest
+
+dependencies:
+  - python=3.6
+  - pip:
+    - autokeras
